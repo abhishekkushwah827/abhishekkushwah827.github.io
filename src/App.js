@@ -20,10 +20,10 @@ function App() {
 <>
     <Navbar2/>
     <Switch>
-     <Route exact path="/gh-pages-url" component={Home} />
-     <Route exact path="/gh-pages-url/about" component={About} />
-     <Route exact path="/gh-pages-url/service" component={Service} />
-     <Route exact path="/gh-pages-url/contact" component={Contact} />
+     <Route exact path="/" component={Home} />
+     <Route exact path="/about" component={About} />
+     <Route exact path="/service" component={Service} />
+     <Route exact path="/contact" component={Contact} />
      <Redirect to="abhishekkushwah827.github.io/" />
      <Home/>
      </Switch>
