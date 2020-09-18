@@ -7,19 +7,19 @@ import Reasoning from "./images/Reasoning.png"
 const Sdata = [
     {
         imgsrc: webimg ,
-        title: "Web_Development" ,
+        title: "Web Development" ,
     },
     {
         imgsrc: mobile ,
-        title: "App_Development" ,
+        title: "App Development" ,
     },
     {
         imgsrc:Software  ,
-        title: "Software" ,
+        title: "Software Development",
     },
     {
         imgsrc:  Digital,
-        title: "Digital_Marketing",
+        title: "Digital Marketing",
     },
     {
         imgsrc: Apptitude  ,
